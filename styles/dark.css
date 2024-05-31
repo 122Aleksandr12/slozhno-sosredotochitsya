@@ -1,3 +1,4 @@
+
 .page.theme_dark {
   --text-color: var(--color-pink-2, #f1b2ce);
   --brand-color: var(--color-purple-1, #db00ff);
@@ -10,6 +11,11 @@
   --page-background-image: url("../images/cover-image-dark.png");
 
   --rec-decor-visibility: visible;
+<<<<<<< HEAD
+=======
+  --rec-decoration-clr: #ff0070;
+  --decorative-bracket-clr: #ff0070;
+>>>>>>> 772b1cbae19593a7b598d617431d2367c5e16df0
 }
 
 @media (prefers-color-scheme: dark) {
