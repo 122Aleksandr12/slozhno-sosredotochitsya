@@ -94,11 +94,11 @@
   font-weight: 700;
   font-size: clamp(7.25rem, 7.0115rem + 1.0178vw, 7.5rem);
   line-height: 82.5%;
-  text-shadow: 4px 4px 0 var(--color-purple-2, #ff0070);
+  text-shadow: 4px 4px 0 var(--shadow-color, #ff0070);
 }
 
 .shadow-decor {
-  text-shadow: 2px 2px 0 #ff0070;
+  text-shadow: 2px 2px 0 var(--shadow-color, #ff0070);
 }
 .card-text-link {
   text-shadow: 2px 2px 0 var(--accent-color, #ff0070);
@@ -189,7 +189,7 @@
 }
 
 .header__theme-menu-button:hover {
-  border-color: var(--secondary-color-o-40, #ff007040);
+  border-color: var(--button-hover-clr, #ff007040);
 }
 
 .header__theme-menu-button:focus {
