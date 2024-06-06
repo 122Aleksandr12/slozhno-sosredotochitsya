@@ -100,6 +100,7 @@
 .card-text-link {
   text-shadow: 2px 2px 0 var(--shadow-color);
 }
+
 .title {
   color: var(--secondary-color);
   font-size: inherit;
@@ -281,14 +282,6 @@
 @media (width >=1024px) {
   .section {
     column-gap: 30px;
-  }
-
-  .page-title {
-    text-shadow: 4px 4px 0 var(--shadow-color);
-  }
-
-  .shadow-decor {
-    text-shadow: 2px 2px 0 var(--shadow-color);
   }
 
   .section-what__articles-list {
