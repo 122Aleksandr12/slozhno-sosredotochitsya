@@ -6,7 +6,6 @@
   --secondary-color: #353430;
   --button-hover-clr: #35343040;
   --shadow-color: #ff0070;
-  --page-background-color: #fff1f7;
   --page-background-image: url("../images/cover-image-light.png");
 
   --rec-decor-visibility: hidden;
@@ -21,7 +20,6 @@
     --secondary-color: #353430;
     --button-hover-clr: #35343040;
     --shadow-color: #ff0070;
-    --page-background-color: var(#fff1f7);
     --page-background-image: url("../images/cover-image-light.png");
 
     --rec-decor-visibility: hidden;
