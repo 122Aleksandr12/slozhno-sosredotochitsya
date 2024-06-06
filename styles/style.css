@@ -3,7 +3,7 @@
   font-family: var(--page-font-family);
   font-size: 18px;
   line-height: 23.4px;
-  background-image: url("../images/cover-image.png");
+  background-image: var(--page-background-image);
   background-position: center;
   background-size: cover;
   background-attachment: fixed;
@@ -90,15 +90,15 @@
   font-weight: 700;
   font-size: clamp(7.25rem, 7.0115rem + 1.0178vw, 7.5rem);
   line-height: 82.5%;
-  text-shadow: 4px 4px 0 var(--accent-color);
+  text-shadow: 4px 4px 0 var(--shadow-color);
 }
 
 .shadow-decor {
-  text-shadow: 2px 2px 0 var(--accent-color);
+  text-shadow: 2px 2px 0 var(--shadow-color);
 }
 
 .card-text-link {
-  text-shadow: 2px 2px 0 var(--accent-color);
+  text-shadow: 2px 2px 0 var(--shadow-color);
 }
 .title {
   color: var(--secondary-color);
