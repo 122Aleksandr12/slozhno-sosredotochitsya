@@ -4,6 +4,7 @@
   font-size: 18px;
   line-height: 23.4px;
   background-image: var(--page-background-image);
+  background-color: var(--page-background-color);
   background-position: center;
   background-size: cover;
   background-attachment: fixed;
