@@ -5,7 +5,7 @@
   --button-hover-clr: #ff007040;
   --accent-color: #ff0070;
   --highlight-color: #000028;
-
+  --shadow-color: #ff0070;
   --page-background-color: #000028;
   --page-background-image: url("../images/cover-image-dark.png");
 
@@ -20,7 +20,7 @@
     --button-hover-clr: #ff007040;
     --accent-color: #ff0070;
     --highlight-color: #000028;
-
+    --shadow-color: #ff0070;
     --page-background-color: #000028;
     --page-background-image: url("../images/cover-image-dark.png");
 
